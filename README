@@ -1,4 +1,7 @@
 This is syntax highlighting for the configuration files of the Yate 
-telephony engine (http://yate.null.ro).  To install, copy regexroute.vim
-to ~/.vim/syntax and add the contents of filetype.vim to your filetype.vim,
-usually in ~/.vim/filetype.vim.  Comments welcome, find us in #yate on freenode.
+telephony engine (http://yate.null.ro).  
+
+To install, copy syntax/regexroute.vim to ~/.vim/syntax then add the 
+contents of filetype.vim to your filetype.vim, usually in ~/.vim/filetype.vim.
+
+Comments welcome, find us in #yate on freenode.
